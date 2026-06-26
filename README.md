@@ -106,9 +106,6 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yadidiah-k" alt="Yadidiah-k streak stats"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Yadidiah-k&theme=algolia" alt="Yadidiah-k streak stats"/>
 </p>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Yadidiah-k/Yadidiah-k/output/github-contribution-grid-snake.svg" alt="Contribution snake animation"/>
-</p>
