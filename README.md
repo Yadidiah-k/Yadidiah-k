@@ -3,7 +3,7 @@
 Web Development, Data Science, Data Analysis, API 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yadididiah24&label=Profile%20views&color=0e75b6&style=flat" alt="yadididiah24" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yadididiah24" alt="yadididiah24" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yadidiah-k" alt="yadidiah-k" /></a> </p>
 
 - 🔭 My Last project was [3-D Image Segmentation And Classification Using nnU-net](https://github.com/YADIDidiah24/AI-Projects/blob/main/nnu_net.py)
 
