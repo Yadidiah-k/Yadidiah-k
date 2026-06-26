@@ -11,7 +11,7 @@
   <a href="https://yadidiah.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-yadidiah.vercel.app-0e75b6?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/yadidiah-kanaparthi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:yadidiah.wrk@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=yadididiah24&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Yadidiah-k&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"/>
 </p>
 
 ---
@@ -90,11 +90,23 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yadididiah24&show_icons=true&locale=en&theme=default" alt="yadididiah24 stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yadididiah24&show_icons=true&locale=en&layout=compact" alt="yadididiah24 top langs" height="165"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Yadidiah-k&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+</p>
+
+---
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Yadidiah-k&show_icons=true&locale=en&theme=default" alt="Yadidiah-k stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yadidiah-k&show_icons=true&locale=en&layout=compact" alt="Yadidiah-k top langs" height="165"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yadididiah24" alt="yadididiah24 streak stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yadidiah-k" alt="Yadidiah-k streak stats"/>
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Yadidiah-k/Yadidiah-k/output/github-contribution-grid-snake.svg" alt="Contribution snake animation"/>
 </p>
