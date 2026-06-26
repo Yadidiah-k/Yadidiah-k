@@ -99,7 +99,7 @@
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Yadidiah-k&show_icons=true&locale=en&theme=default" alt="Yadidiah-k stats" height="165"/>
+<img src="![Yadidiah-k's Stats](https://github-readme-stats.vercel.app/api?username=Yadidiah-k&theme=merko&show_icons=true&hide_border=true&count_private=true)" alt="Yadidiah-k stats" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yadidiah-k&show_icons=true&locale=en&layout=compact" alt="Yadidiah-k top langs" height="165"/>
 </p>
 
