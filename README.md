@@ -99,7 +99,7 @@
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Yadidiah-k&theme=merko&show_icons=true&hide_border=true&count_private=true" alt="Yadidiah-k stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Yadidiah-k&theme=blue-green&show_icons=true&hide_border=true&count_private=true" alt="Yadidiah-k stats" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yadidiah-k&theme=merko&hide_border=true" alt="Yadidiah-k top langs" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yadidiah-k&theme=merko&show_icons=true&hide_border=true&layout=compact" alt="Yadidiah-k top langs" height="165"/>
 
