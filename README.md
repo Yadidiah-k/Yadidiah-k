@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://yadidiah.vercel.app"><img src="https://img.shields.io/badge/portfolio-2547E6?style=flat-square&labelColor=2547E6" alt="portfolio" /></a>
-  <a href="https://yadidiah.vercel.app/writing"><img src="https://img.shields.io/badge/writing_&_notes-1b1a16?style=flat-square&labelColor=1b1a16" alt="writing and notes" /></a>
+  <a href="https://yadidiah.vercel.app/writing"><img src="https://img.shields.io/badge/writing%20%26%20notes-1b1a16?style=flat-square&labelColor=1b1a16" alt="writing and notes" /></a>
   <a href="https://yadidiah.vercel.app/resume.pdf"><img src="https://img.shields.io/badge/résumé-1b1a16?style=flat-square&labelColor=1b1a16" alt="résumé" /></a>
   <a href="https://www.linkedin.com/in/yadidiah-kanaparthi/"><img src="https://img.shields.io/badge/linkedin-1b1a16?style=flat-square&labelColor=1b1a16" alt="linkedin" /></a>
   <a href="https://medium.com/@yadidiah.k"><img src="https://img.shields.io/badge/medium-1b1a16?style=flat-square&labelColor=1b1a16" alt="medium" /></a>
