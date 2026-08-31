@@ -1,111 +1,97 @@
-<h1 align="center">Hi, I'm Yadidiah 👋</h1>
+```
+YADIDIAH KANAPARTHI
+AI Engineer  ·  LLM systems, RAG & agents, voice AI, and the backend behind them
+Dubai, AE  ·  25.20° N, 55.27° E  ·  UAE Golden Visa — no sponsorship needed for UAE roles
+```
 
-<h3 align="center">Lead AI Engineer · Voice AI Agents, RAG Pipelines & Multi-Agent Systems</h3>
+I build production-shaped AI and backend systems — RAG pipelines, LLM fine-tuning,
+voice agents, and the FastAPI / Postgres services that hold them up. I work end to
+end, with tests, migrations, and eval harnesses rather than notebooks, and I go
+deep on how the models actually behave.
 
-<p align="center">
-  Building production LLM systems — from low-latency voice agents to agentic architectures and retrieval pipelines.<br/>
-  Based in Dubai, UAE 🇦🇪 (UAE Golden Visa holder) · Open to remote roles worldwide
-</p>
-
-<p align="center">
-  <a href="https://yadidiah.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-yadidiah.vercel.app-0e75b6?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/yadidiah-kanaparthi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:yadidiah.wrk@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Yadidiah-k&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"/>
-</p>
+**[portfolio](https://yadidiah.vercel.app)** · [writing &amp; notes](https://yadidiah.vercel.app/writing) · [résumé](https://yadidiah.vercel.app/resume.pdf) · [linkedin](https://www.linkedin.com/in/yadidiah-kanaparthi/) · [medium](https://medium.com/@yadidiah.k)
 
 ---
 
-### 🚀 About Me
+### §01 · now
 
-- 🧠 I design and ship **agentic LLM systems** — multi-agent architectures, RAG pipelines, and voice AI agents that run in production, not just notebooks
-- 🎙️ Built a **zero-latency sales voice agent** and a **large-scale compatibility matching engine** as flagship systems
-- 🔬 Published **3 peer-reviewed papers** (Springer & IEEE), including work on 3D medical image segmentation
-- 🌍 Holding a **UAE Golden Visa** — no employer sponsorship required for roles based in the UAE
-- 🛠️ Comfortable across the full stack: model layer, backend services, infra, and the agent orchestration in between
-- 📫 Reach me at **yadidiah.wrk@gmail.com**
+- Fine-tuning Qwen2.5-1.5B for schema-conditioned text-to-SQL with an execution-accuracy eval harness
+- Building AI automation workflows at **Humai** (Dubai) — LangGraph agent loops, a Gemma QLoRA fine-tune, a Pipecat voice agent, an MCP tool gateway
+- Writing up a decoder-only GPT built from scratch in PyTorch
 
 ---
 
-### 🧩 Core Stack
+### §02 · selected work
 
-**AI / ML**
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original-wordmark.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" title="scikit-learn" alt="scikit-learn" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>
-</p>
+| Project | What it is | |
+|---|---|---|
+| **GraphRAG Hierarchical Chat** | Graph-structured retrieval over long, cross-referenced document sets | [repo](https://github.com/Yadidiah-k/graphrag-hierarchical-chat) |
+| **PneumoScan AI** | Explainable pneumonia detection from chest X-rays — 98.42% test accuracy, Grad-CAM overlays | [repo](https://github.com/Yadidiah-k/grad-proj) |
+| **YouSentimentAI** | End-to-end MLOps pipeline for YouTube comment sentiment — DVC, MLflow, staged registry | [repo](https://github.com/Yadidiah-k/Youtube-Sentiment-Analysis) |
+| **LexiQE AI** | Private, on-device legal-document Q&amp;A — RAG over FAISS + FLAN-T5, cited answers | [repo](https://github.com/Yadidiah-k/LLM-Projects) |
+| **Decoder-only GPT, from scratch** | Transformer, tokenizer, and training loop in raw PyTorch — to learn the internals | [notes](https://yadidiah.vercel.app/notes/transformer-forward-pass) |
+| **Premium Business Planner** | AI-assisted investor-ready plans — Gemini for prose, deterministic Python for the numbers | [repo](https://github.com/Yadidiah-k/LLM-Projects) |
 
-**Agentic & LLM Tooling**
-<p align="left">
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" title="LangGraph" alt="LangGraph" height="28"/>&nbsp;
-<img src="https://img.shields.io/badge/DSPy-FF6B6B?style=flat-square&logo=python&logoColor=white" title="DSPy" alt="DSPy" height="28"/>&nbsp;
-<img src="https://img.shields.io/badge/Pipecat-2E86AB?style=flat-square&logo=python&logoColor=white" title="Pipecat" alt="Pipecat" height="28"/>&nbsp;
-<img src="https://img.shields.io/badge/Vector%20DBs-4B8BBE?style=flat-square&logo=databricks&logoColor=white" title="Vector Databases" alt="Vector DBs" height="28"/>
-</p>
-
-**Backend & Full-Stack**
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" title="NestJS" alt="NestJS" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-</p>
-
-**Cloud & Infra**
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="GCP" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
-</p>
+Full case studies — problem, approach, outcome — at **[yadidiah.vercel.app/#work](https://yadidiah.vercel.app/#work)**
 
 ---
 
-### 📄 Publications
+### §03 · stack
 
-- **3D Medical Image Segmentation & Classification using nnU-Net** — applied research on volumetric segmentation for clinical imaging
-- 2 additional peer-reviewed papers published in **Springer** and **IEEE** venues *(add titles/links here)*
+```
+llm / genai   RAG (FAISS · pgvector · Pinecone) · LoRA / QLoRA (Unsloth)
+              LangChain · LangGraph · DSPy · prompt contracts + eval harnesses
+              Hugging Face · Ollama · PyTorch (from-scratch transformers)
 
-*(Full citations and links available on request or via [LinkedIn](https://www.linkedin.com/in/yadidiah-kanaparthi/).)*
+backend       Python · FastAPI · PostgreSQL · SQLAlchemy · Alembic · Redis / RQ
+              outbox pattern · idempotency keys · structured logging
+              NestJS · TypeScript
+
+ml / data     TensorFlow · Keras · scikit-learn · XGBoost · LightGBM
+              MLflow · DVC · Pandas · NumPy · Apache Spark
+
+voice ai      LiveKit · Pipecat · Deepgram · Whisper · Silero VAD · dual-STT validation
+
+cloud / ops   GCP (Cloud Run · GKE · Vertex AI) · AWS (SageMaker · Lambda)
+              Docker · Kubernetes · GitHub Actions
+```
 
 ---
 
-### 🔗 Connect
+### §04 · writing &amp; notes
 
-<p align="left">
-<a href="https://www.linkedin.com/in/yadidiah-kanaparthi/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://medium.com/@yadidiah.k" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19885683/yadidiah" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/yadidiahk" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/yadididiah24/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/yadidiah" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
-</p>
+On-site notes on how LLMs, transformers, and retrieval actually behave — written
+from first principles, corrected against implementation:
+
+- [Deep learning, stated precisely](https://yadidiah.vercel.app/notes/deep-learning-precisely)
+- [The transformer forward pass, token by token](https://yadidiah.vercel.app/notes/transformer-forward-pass)
+- [What actually happens at inference](https://yadidiah.vercel.app/notes/inference-kv-cache-and-context) — generation loop, KV cache, GQA/MQA, serving
+- [Building RAG from the boundaries in](https://yadidiah.vercel.app/notes/rag-from-the-boundaries-in)
+- [Backend patterns for AI work](https://yadidiah.vercel.app/notes/backend-patterns-for-ai) — durable jobs, outbox, idempotency
+
+Longer posts on Medium → **[@yadidiah.k](https://medium.com/@yadidiah.k)**
 
 ---
 
-### 🏆 GitHub Trophies
+### §05 · research
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Yadidiah-k&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-</p>
+Three peer-reviewed papers (IEEE · Springer, 2023–2025) on machine learning for
+IoT security — threat detection, intrusion detection, and systematized log
+analysis. Undergraduate thesis: implemented and benchmarked five volumetric
+segmentation architectures (U-Net, V-Net, SA-Net, E1D3, HDC) on 3D MRI
+brain-tumor data.
+
+Full citations on [LinkedIn](https://www.linkedin.com/in/yadidiah-kanaparthi/).
+
+---
+
+### §06 · elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/yadidiah-kanaparthi/) · [Medium](https://medium.com/@yadidiah.k) · [Kaggle](https://www.kaggle.com/yadidiahk) · [HackerRank](https://www.hackerrank.com/profile/yadidiah) · [Stack Overflow](https://stackoverflow.com/users/19885683/yadidiah) · [LeetCode](https://leetcode.com/u/yadididiah24/) · `yadidiah.wrk@gmail.com`
 
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Yadidiah-k&theme=blue-green&show_icons=true&hide_border=true&count_private=true" alt="Yadidiah-k stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yadidiah-k&theme=merko&hide_border=true" alt="Yadidiah-k top langs" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yadidiah-k&theme=merko&show_icons=true&hide_border=true&layout=compact" alt="Yadidiah-k top langs" height="165"/>
-
+  <img alt="GitHub stats" height="150" src="https://github-readme-stats.vercel.app/api?username=Yadidiah-k&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=808080&icon_color=2547E6&count_private=true" />
+  <img alt="Top languages" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yadidiah-k&layout=compact&hide_border=true&title_color=2547E6&bg_color=00000000&text_color=808080&langs_count=8" />
 </p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Yadidiah-k&theme=algolia" alt="Yadidiah-k streak stats"/>
-</p>
-
